@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "55N1NguyenVuGameSale_DWH", "SaleGame.Publisher\55N1NguyenVuGameSale_DWH.dwproj", "{E9C8B814-B5BB-40F2-A483-AB9452BCBB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C8B814-B5BB-40F2-A483-AB9452BCBB86}.Development|Default.ActiveCfg = Development
+		{E9C8B814-B5BB-40F2-A483-AB9452BCBB86}.Development|Default.Build.0 = Development
+		{E9C8B814-B5BB-40F2-A483-AB9452BCBB86}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F281EB5-2D27-4F76-9EDD-749E934423DF}
+	EndGlobalSection
+EndGlobal

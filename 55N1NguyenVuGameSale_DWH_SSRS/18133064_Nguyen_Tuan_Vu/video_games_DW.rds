@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="video_games_DW">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-CDA65PR;Initial Catalog=video_games_DW</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d749f3c4-23ae-41cd-be29-7e2e27acc161</DataSourceID>
+</RptDataSource>
